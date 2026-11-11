@@ -23,7 +23,7 @@ WARN_AFTER_FAILS = 4  # itni baar lagatar fail ho (10 min x 4 = ~40 min) to warn
 STATE_FILE = "state.json"
 BLOCK_HINTS = ["access denied", "captcha", "are you a human", "unusual traffic", "403 forbidden"]
 
-OUT_WORDS = ["currently unavailable", "sold out", "out of stock", "notify me", "coming soon"]
+OUT_WORDS = ["currently unavailable", "sold out", "out of stock", "notify me", "coming soon", "not available for purchase", "item not available", "temporarily unavailable"]
 IN_WORDS = ["buy now", "add to cart"]
 
 PRODUCTS = [
