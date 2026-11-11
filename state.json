@@ -1,0 +1,37 @@
+{
+  "https://www.flipkart.com/playstation-rs-2000-inr-gift-card/p/itmd41e56cc4ca04?pid=DGVH9SWYHVTXSFNX": {
+    "fails": 0,
+    "status": "in",
+    "warned": false
+  },
+  "https://www.flipkart.com/sony-interactive-entertainment-europe-rs-3000-playstation-store-gift-card-digital-voucher-delivery-email/p/itma3cec289dd512?pid=DGVHGEX6BGYDMJGZ": {
+    "fails": 0,
+    "status": "out",
+    "warned": false
+  },
+  "https://www.flipkart.com/sony-interactive-entertainment-rs-5000-playstation-store-gift-card/p/itm5b2422845fb13?pid=DGVHBGFX4BNWKEWB": {
+    "fails": 0,
+    "status": "out",
+    "warned": false
+  },
+  "https://www.gamestheshop.com/product/2153a461-7203-4802-aac4-283be4c775d3?variant=09df672e-b598-4b2d-9b3e-e1ca1dd9d205": {
+    "fails": 0,
+    "status": "out",
+    "warned": false
+  },
+  "https://www.gamestheshop.com/product/57ffc696-2241-45b1-af43-736209293710?variant=9d31fdcf-28e8-451c-b3f7-a89a88b86a6f": {
+    "fails": 0,
+    "status": "out",
+    "warned": false
+  },
+  "https://www.gamestheshop.com/product/d117bc23-1c4b-4330-b7f3-f90c71d9a5b3?variant=cb05d659-beac-47d7-85ff-8bfed95f47cf": {
+    "fails": 0,
+    "status": "out",
+    "warned": false
+  },
+  "https://www.gamestheshop.com/product/f528de33-a760-4fea-9b04-3d150b24a116?variant=7e6631a0-0d65-4907-89b7-4ab5e24397cc": {
+    "fails": 0,
+    "status": "out",
+    "warned": false
+  }
+}
